@@ -1,0 +1,49 @@
+#dog {
+  max-width: 200px;
+  width: 100%;
+  margin-left: 50%;
+  margin-right: 50%;
+}
+
+
+
+#dog:hover {
+     width: 500px;
+     height: 400px;
+     background-color: black;
+     transition: 5s;
+}
+
+
+#counter {
+  margin-left: 50%;
+  margin-right: 50%;
+  width: 100%;
+  font-family:  'Monoton', cursive;
+  font-size: 30px;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+#counter:hover {
+  background-color: blue;
+  display: block;
+  font-size: 50px;
+  width: 500px;
+  height: 200px;
+  transition: 5s;
+  transform: rotate(360deg);
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+
+body {
+ background-image: url("../img/photo-1448375240586-882707db888b.png");
+ background-size: cover;
+ background-repeat: no-repeat;
+}
+
+
+
