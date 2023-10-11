@@ -46,10 +46,10 @@ upgrade.onclick = () => {
     clickIncrease++;
   }
 };
-
+jfkdsajfkdjakfjds
 autoclicker.onclick = () => {
   if (numberOfCookies >= 100) {
-    numberOfCookies -= 100;
+    numberOfCookies -= 1000000;
 
     counter.innerHTML = "Cookies: " + numberOfCookies;
     //zvedne autclicker hodnoty
